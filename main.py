@@ -37,8 +37,17 @@ try:
 except IOError as io:
     print("[ERROR] Please create classes.txt and put your all classes")
     sys.exit(1)
-# COLORS = random.sample(set(MAIN_COLORS), len(classes))
-COLORS = MAIN_COLORS#set(MAIN_COLORS)#, len(classes)
+
+# Ensure COLORS list has enough colors for each class
+num_classes = len(classes)
+num_colors = len(MAIN_COLORS)
+
+if num_classes > num_colors:
+    extra_colors_needed = num_classes - num_colors
+    extra_colors = [MAIN_COLORS[i % num_colors] for i in range(extra_colors_needed)]
+    MAIN_COLORS.extend(extra_colors)
+
+COLORS = MAIN_COLORS
 print(classes)
 class LabelTool():
     def __init__(self, master):

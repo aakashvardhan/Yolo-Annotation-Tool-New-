@@ -1,2 +1,73 @@
-cat
+baboon
+laptop
+mobile phone
+mountain
+terrain
+tree
+skyscraper
+bridge
+beach
+person
+guitar
+car
+house
+bird
+camera
+river
+ocean
+snow
+road
+tunnel
+windows
+bear
+clouds
+refinery
+lighthouse
+sign board
+tram
+plant
+mushroom
+butterfly
+elephant
+giraffe
+zebra
+rhinoceros
+hippopotamus
+crocodile
+snake
+kangaroo
+koala
+monkey
+panda
+penguin
+rabbit
+polar bear
+seal
+dolphin
+whale
+shark
+fish
+octopus
+starfish
+jellyfish
+shell
+coral
+anemone
+seahorse
+crab
+lobster
+shrimp
+coffee beans
+jellyfish
+human hand
+space shuttle
+swing set
+balloon
+fish
+airplane
+pond
+canyon
 dog
+tricycle
+train
+sky
