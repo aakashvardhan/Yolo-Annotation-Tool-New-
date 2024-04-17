@@ -50,3 +50,4 @@ squirrel
 rhinoceros
 chimpanzee
 bighorn sheep
+jaguar
