@@ -51,3 +51,5 @@ rhinoceros
 chimpanzee
 bighorn sheep
 jaguar
+iguana
+calypte hummingbird
